@@ -1,6 +1,9 @@
-# Create T3 App
+# Background Info
+ * E Business Card app is a NextJS app for printing E-business card to share online on all social platforms
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+
+# Current State
+ * Build in Progress
 
 ## Technologies
  * NextJs
